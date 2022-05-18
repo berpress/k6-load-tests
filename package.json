@@ -1,0 +1,26 @@
+{
+  "name": "k6-load-tests",
+  "version": "1.0.0",
+  "description": "K6 Load tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berpress/k6-load-tests.git"
+  },
+  "author": "berpress@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berpress/k6-load-tests/issues"
+  },
+  "homepage": "https://github.com/berpress/k6-load-tests#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.15.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "2.6.2"
+  }
+}
